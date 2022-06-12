@@ -51,7 +51,7 @@ Create a `Tweets` component that contains a `Tweet` component such that it is co
 </div>
 ```
 
-The Tweets Component is consumed by the Tweet component in the following manner:
+The `Tweet` child component is consumed by the `Tweets` parent component in the following manner:
 ```
 <div className="Tweets">
     <div>Tweet Storm</div>
