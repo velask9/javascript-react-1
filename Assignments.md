@@ -25,9 +25,12 @@ When you are finished, the Main React component will resemble the following and 
 
 ![](./docs/ex1.png)
 
-Create a PR called `Ex. 1: Dollar Food Store` when you are finished.
+When you are finished create a PR called `Ex. 1: Dollar Food Store`.
 
 # Ex. 2:
+
+
+
 
 # Ex. 3:
 
