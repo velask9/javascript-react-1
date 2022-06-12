@@ -4,10 +4,10 @@ Assignments are located [here](./Assignments.md)
 
 # Getting Started
 - Clone this repo
-- Update index.js.template:
-  - Change the student id to your student id (Line 4)
-  - Rename this file to: index.js
-  - Note: This file will not be checked into the repo because it has been added to the .gitignore file
+- Update `index.js.template`:
+  - Update line 4 to reflect your student id number
+  - Rename this file to: `index.js`
+  - Note: This file will not be checked into the repo because it has been added to the `.gitignore` file
 - Start the live server: npm start
 - Observe your browser: `localhost:3000`
 
