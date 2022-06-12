@@ -9,7 +9,9 @@ Create the following React [Type 1](https://gitlab.com/mburolla/javascript-react
     - Dessert
 - Footer
 
-The Main React component will resemble the following:
+The header component has been done for you.  It can be used as an example for the rest of the React components.
+
+When you are finished, the Main React component will resemble the following:
 ```
 <div className="Main">
     <Header />
