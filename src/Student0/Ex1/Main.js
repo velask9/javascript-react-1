@@ -4,7 +4,7 @@ import './Main.scss'
 
 export const Main = () => {
   return (
-    <div>
+    <div className="Main">
         <Header />
         {/* 
           <Menu />
