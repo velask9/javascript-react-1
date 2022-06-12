@@ -81,6 +81,10 @@ Copy and paste the `Tweets` and `Tweet` components to the Ex4 directory in your 
 
 ![](./docs/ex4.png)
 
+Always keep the DevTools console open (ctl+shift+i).
+
+When you are finished create a PR called `Ex. 3: Tweet Storm`.
+
 # Ex. 5:
 
 # Ex. 6:
