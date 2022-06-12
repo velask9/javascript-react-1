@@ -53,8 +53,6 @@ Create a `Tweets` parent component that contains many `Tweet` components such th
 
 The `Tweet` child component is consumed by the `Tweets` parent component in the following manner:
 
-Note: message and color are props of the `Tweet` component.
-
 ```
 <div className="Tweets">
     <div>Tweet Storm</div>
@@ -63,6 +61,7 @@ Note: message and color are props of the `Tweet` component.
     <Tweet message="I just smashed my new car." color="red" />
 </div>
 ```
+Note: message and color are props of the `Tweet` component.
 
 Rendered UI:
 
@@ -79,6 +78,8 @@ The [Type 9](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/sr
 
 Copy and paste the `Tweets` and `Tweet` components to the Ex4 directory in your Student directory.  Modify the `Tweet` component to include a 'Like' button.  The `Tweets` component has [state](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type9.js#L8) that keeps track of the total number of likes. 
 
+Rendered UI:
+
 ![](./docs/ex4.png)
 
 Always keep the DevTools console open (ctl+shift+i).
@@ -89,6 +90,8 @@ When you are finished create a PR called `Ex. 4: Like Counter`.
 React allows us to show/hide items from the user.  As developers we can choose to simpy hide the elements or remove them (unload) from the DOM.  The [Type 11](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type11.js) component shows how these tasks are accomplished.
 
 Create a React component called `Account` that contains a table and a button.  The button shows/hides the Account Number.  The text of the button should change to "Show" or "Hide"
+
+Rendered UI:
 
 ![](./docs/ex5a.png)
 ![](./docs/ex5b.png)
