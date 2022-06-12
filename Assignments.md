@@ -25,7 +25,7 @@ When you are finished, the Main React component will resemble the following and 
 
 ![](./docs/ex1.png)
 
-Always keep the DevTools console open (ctl+shift+i)!
+Always keep the DevTools console open (ctl+shift+i).
 
 When you are finished create a PR called `Ex. 1: Dollar Food Store`.
 
@@ -36,7 +36,7 @@ Now its your turn to slice and dice.  Given the following UI:
 
 Create [Type 1](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/component-types.md) React components and place them in your `Main` React component in your student directory.
 
-Always keep the DevTools console open (ctl+shift+i)!
+Always keep the DevTools console open (ctl+shift+i).
 
 When you are finished create a PR called `Ex. 2: FootBook`.
 
