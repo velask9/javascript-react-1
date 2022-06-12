@@ -1,6 +1,6 @@
 # JavaScript React Intro
 
-Assignments are located [here](./Assignments.md)
+Assignments are located [here](./Assignments.md).
 
 # Getting Started
 - Clone this repo
