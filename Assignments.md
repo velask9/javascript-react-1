@@ -11,7 +11,8 @@ Create the following React [Type 1](https://gitlab.com/mburolla/javascript-react
 
 The `Header` React component has been done for you.  It can be used as an example for the rest of the React components.
 
-When you are finished, the Main React component will resemble the following:
+When you are finished, the Main React component will resemble the following and will produce the rendered output below:
+
 ```
 <div className="Main">
     <Header />
