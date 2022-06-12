@@ -40,14 +40,35 @@ Always keep the DevTools console open (ctl+shift+i).
 
 When you are finished create a PR called `Ex. 2: FootBook`.
 
-# Ex. 3:
-React Components have properties, commonly knows as props.  
+# Ex. 3: Tweet Storm 
+React Components have properties, commonly knows as props.  Props allow us to send data INTO a React Component.  Prop data in the React Component is READ ONLY and cannot be changed.
 
+Create a `Tweets` component that contains a `Tweet` component such that it is consumed by the `Main` component in the following manner:
 
+```
+<div className="Main">
+    <Tweets />
+</div>
+```
 
+The Tweets Component is consumed by the Tweet component in the following manner:
+```
+<div className="Tweets">
+    <div>Tweet Storm</div>
+    <Tweet message="It's payday!!!" color="green"/>
+    <Tweet message="I just bought a new car!" color="yellow" />
+    <Tweet message="I just smashed my new car." color="red" />
+</div>
+```
 
+Rendered UI:
+
+![](./docs/ex3.png)
 
 # Ex. 4:
+Callback arrow functions are used to get data out of a function.
+
+
 
 # Ex. 5:
 
