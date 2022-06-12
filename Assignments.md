@@ -65,6 +65,10 @@ Rendered UI:
 
 ![](./docs/ex3.png)
 
+Always keep the DevTools console open (ctl+shift+i).
+
+When you are finished create a PR called `Ex. 3: Tweet Storm`.
+
 # Ex. 4:
 Callback arrow functions are used to get data out of a function.
 
