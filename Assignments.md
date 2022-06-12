@@ -102,4 +102,12 @@ When you are finished create a PR called `Ex. 5: Account Information`.
 
 # Ex. 6:
 
+React allows us to get "handles" to DOM elements.  Because of this, there is no reason to use `getElementById()` in our React applications.  Using `getElementById()` in a pure React application is considered to be an anit-pattern.  
 
+[Type 6](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type6.js) components show how we can use the `useRef()` hook to get a reference to a DOM element.  NOTE: `useRef()` has two different use cases.  We are ignoring the other use case for now.
+
+Create a React component called `SentenceBuilder` That builds a sentence using the `useState()` and `useRef()` hooks.
+
+Rendered UI:
+
+![](./docs/ex6.png)
