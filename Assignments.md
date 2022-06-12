@@ -41,6 +41,11 @@ Always keep the DevTools console open (ctl+shift+i).
 When you are finished create a PR called `Ex. 2: FootBook`.
 
 # Ex. 3:
+React Components have properties, commonly knows as props.  
+
+
+
+
 
 # Ex. 4:
 
