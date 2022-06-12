@@ -75,9 +75,9 @@ When you are finished create a PR called `Ex. 3: Tweet Storm`.
 # Ex. 4: Like Counter
 Callback arrow functions are used to send data from a child component and back to the parent component.
 
-The [Type 9](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type9.js) component shows how handle when a [child](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Child.js) component callback back to the parent.
+The [Type 9](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type9.js) component shows how handle a callback function when a [child](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Child.js) component fires a callback function to the parent.
 
-Copy and paste the `Tweets` and `Tweet` components to the Ex4 directory in your Student directory.  Modify the `Tweet` component to include a 'Like' button.  The `Tweets` component has state that keeps track of the total number of likes. 
+Copy and paste the `Tweets` and `Tweet` components to the Ex4 directory in your Student directory.  Modify the `Tweet` component to include a 'Like' button.  The `Tweets` component has [state](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type9.js#L8) that keeps track of the total number of likes. 
 
 ![](./docs/ex4.png)
 
