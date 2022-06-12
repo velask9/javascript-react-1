@@ -85,13 +85,17 @@ Always keep the DevTools console open (ctl+shift+i).
 
 When you are finished create a PR called `Ex. 4: Like Counter`.
 
-# Ex. 5:
+# Ex. 5: Account Information
 React allows us to show/hide items from the user.  As developers we can choose to simpy hide the elements or remove them (unload) from the DOM.  The [Type 11](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type11.js) component shows how these tasks are accomplished.
 
 Create a React component called `Account` that contains a table and a button.  The button shows/hides the Account Number.  The text of the button should change to "Show" or "Hide"
 
 ![](./docs/ex5a.png)
 ![](./docs/ex5b.png)
+
+Always keep the DevTools console open (ctl+shift+i).
+
+When you are finished create a PR called `Ex. 5: Account Information`.
 
 # Ex. 6:
 
