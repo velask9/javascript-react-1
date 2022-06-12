@@ -14,5 +14,5 @@ Assignments are located [here](./Assignments.md).
 
 # Starter Tips
 - [React](https://reactjs.org/)
-- ALWAYS keep the console open!
-- ALWAYS check the Network tab when calling Web APIs!
+- ALWAYS keep the console open (Ctl+Shift+i)
+- ALWAYS check the Network tab when calling Web APIs
