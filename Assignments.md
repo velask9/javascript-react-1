@@ -3,7 +3,7 @@
 # Ex. 1: Dollar Food Store
 The React Component is our building block when creating React applications.  We need to know how to architect/structure our React web pages using simple React components.
 
-Create the following React [Type 1](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/component-types.md) components for this [HTML](./src/TODO/index.html) and [CSS](./src/TODO/style.css):
+Create the following React [Type 1](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/component-types.md) components for this [HTML](./src/TODO/DollarStore/index.html) and [CSS](./src/TODO/DollarStore/style.css):
 
 - Menu
     - Food
