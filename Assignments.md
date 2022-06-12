@@ -72,7 +72,7 @@ Always keep the DevTools console open (ctl+shift+i).
 
 When you are finished create a PR called `Ex. 3: Tweet Storm`.
 
-# Ex. 4: Tweet Like Counter
+# Ex. 4: Like Counter
 Callback arrow functions are used to send data from a child component and back to the parent component.
 
 The [Type 9](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type9.js) component shows how a child component can callback to a parent component.
@@ -83,7 +83,7 @@ Copy and paste the `Tweets` and `Tweet` components to the Ex4 directory in your 
 
 Always keep the DevTools console open (ctl+shift+i).
 
-When you are finished create a PR called `Ex. 3: Tweet Storm`.
+When you are finished create a PR called `Ex. 4: Like Counter`.
 
 # Ex. 5:
 
