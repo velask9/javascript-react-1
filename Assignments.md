@@ -43,7 +43,7 @@ When you are finished create a PR called `Ex. 2: FootBook`.
 # Ex. 3: Tweet Storm 
 React Components have properties, commonly knows as props.  Props allow us to send data INTO a React Component.  Prop data in the React Component is READ ONLY and cannot be changed.
 
-Create a `Tweets` component that contains a `Tweet` component such that it is consumed by the `Main` component in the following manner:
+Create a `Tweets` parent component that contains many `Tweet` components such that it is consumed by the `Main` component in the following manner:
 
 ```
 <div className="Main">
@@ -52,6 +52,9 @@ Create a `Tweets` component that contains a `Tweet` component such that it is co
 ```
 
 The `Tweet` child component is consumed by the `Tweets` parent component in the following manner:
+
+Note: message and color are props of the `Tweet` component.
+
 ```
 <div className="Tweets">
     <div>Tweet Storm</div>
@@ -69,10 +72,14 @@ Always keep the DevTools console open (ctl+shift+i).
 
 When you are finished create a PR called `Ex. 3: Tweet Storm`.
 
-# Ex. 4:
-Callback arrow functions are used to get data out of a function.
+# Ex. 4: Tweet Like Counter
+Callback arrow functions are used to send data from a child component and back to the parent component.
 
+The [Type 9](https://gitlab.com/mburolla/javascript-react-starter/-/blob/main/src/comps/Type9.js) component shows how a child component can callback to a parent component.
 
+Copy and paste the `Tweets` and `Tweet` components to the Ex4 directory in your Student directory.  Modify the `Tweet` component to include a 'Like' button.  The `Tweets` component has state that keeps track of the total number of likes. 
+
+![](./docs/ex4.png)
 
 # Ex. 5:
 
