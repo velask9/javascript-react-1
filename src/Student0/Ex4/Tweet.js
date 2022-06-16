@@ -10,7 +10,7 @@ export const Tweet = (props) => {
             break;
         case "yellow":
             className = "YellowMessage"
-                break;
+            break;
         case "green":
             className = "GreenMessage"
             break;
