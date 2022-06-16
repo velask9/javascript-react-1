@@ -24,7 +24,7 @@ export const SentenceBuilder = () => {
         inputRef.current.value = ""
     }
 
-    const onWordChange = () => {
+    const onTextChange = () => {
         if (inputRef.current.value.length > 0) {
             setDisabled(false)
         } else {
@@ -37,7 +37,7 @@ export const SentenceBuilder = () => {
             <h2>Sentence Builder</h2>
             <div>Sentence: {sentence}</div>
             <div>Word Counter: {counter}</div>
-            <input ref={inputRef} onChange={ () => onWordChange()}></input>
+            <input ref={inputRef} onChange={() => onTextChange()}></input>
             <button onClick={() => onHandleWord()} disabled={disabled}>Add Word</button>
             <button onClick={() => onHandleReset()} disabled={disabled}>Reset</button>
         </div>
