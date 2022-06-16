@@ -5,8 +5,8 @@ import './SentenceBuilder.scss'
 
 export const SentenceBuilder = () => {
     let inputRef = useRef(null)
-    let [sentence, setSentence] = useState("")
     let [counter, setCounter] = useState(0)
+    let [sentence, setSentence] = useState("")
     let [disabled, setDisabled] = useState(true)
 
     const onHandleWord = () => {
