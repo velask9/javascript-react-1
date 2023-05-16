@@ -3,7 +3,8 @@
 Assignments are located [here](./Assignments.md).
 
 # Getting Started
-- Clone this repo
+- Fork and clone this repo
+- cd into `javascript-react-1`
 - Install dependencies: `npm install`
 - Copy `src/index.js.template` file and make new file: `src/index.js`
   - Update line 4 in `index.js` to reflect your student id number
