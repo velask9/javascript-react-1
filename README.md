@@ -8,7 +8,7 @@ Assignments are located [here](./Assignments.md).
 - Install dependencies: `npm install`
 - Copy `src/index.js.template` file and make new file: `src/index.js`
   - Update line 4 in `index.js` to reflect your student id number
-  - Note: This file will not be checked into the repo because it has been added to the `.gitignore` file
+  - Note: This file will not be checked into the repo because it has been added to the `.gitignore` file. AKA no need to delete index.js.template
 - Start the live server: 
   - `npm start`
 - Observe your browser: `localhost:3000`
