@@ -1,0 +1,20 @@
+h1 {
+    background-color: aqua;
+    padding: 10px 0px;
+}
+
+h2{
+    padding: 10px 0px;
+}
+
+.Food{
+    background-color: bisque;
+}
+
+.Drinks{
+    background-color: lightblue;
+}
+
+.Dessert{
+    background-color: lightpink;
+}
